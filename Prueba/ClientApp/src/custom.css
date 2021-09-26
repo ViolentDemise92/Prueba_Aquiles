@@ -1,0 +1,14 @@
+ul {
+    list-style-position: outside;
+}
+li {
+    margin-bottom: 5px;
+    margin-left: 40px;
+    padding-left: 8px;
+}
+
+.custom-list-element {
+    word-wrap: break-word;
+    white-space: pre-wrap; /* CSS3 */
+    word-wrap: break-word; /* IE */
+}
